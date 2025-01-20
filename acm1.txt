@@ -1,0 +1,671 @@
+#*MOSFET table look-up models for circuit simulation
+#t1984
+#cIntegration, the VLSI Journal
+#index1
+
+#*The verification of the protection mechanisms of high-level language machines
+#@Virgil D. Gligor
+#t1984
+#cInternational Journal of Parallel Programming
+#index2
+
+#*Another view of functional and multivalued dependencies in the relational database model
+#@M. Gyssens, J. Paredaens
+#t1984
+#cInternational Journal of Parallel Programming
+#index3
+
+#*Entity-relationship diagrams which are in BCNF
+#@Sushil Jajodia, Peter A. Ng, Frederick N. Springsteel
+#t1984
+#cInternational Journal of Parallel Programming
+#index4
+
+#*The computer comes of age
+#@Rene Moreau
+#t1984
+#cThe computer comes of age
+#index5
+
+#*Computationally efficient algorithms for a one-time pad scheme
+#@A. G. Akritas, S. S. Lyengar, A. A. Rampuria
+#t1984
+#cInternational Journal of Parallel Programming
+#index6
+
+#*The hierarchical ordering in Multiattribute files
+#@C. C. Chang, M. W. Du, R. C. T. Lee
+#t1983
+#cInformation Sciences: an International Journal
+#index7
+
+#*Insertion languages
+#@David Haussler
+#t1983
+#cInformation Sciences: an International Journal
+#index8
+
+#*The Three-Machine No-Wait Flow Shop is NP-Complete
+#@Hans Röck
+#t1984
+#cJournal of the ACM (JACM)
+#index9
+#%289258
+#%2135000
+
+#*Lower Bounds and Fast Algorithms for Sequence Acceleration
+#@George M. Trojan
+#t1984
+#cJournal of the ACM (JACM)
+#index10
+#%2135000
+
+#*Space-Time Trade-Offs for Banded Matrix Problems
+#@John E. Savage
+#t1984
+#cJournal of the ACM (JACM)
+#index11
+#%289023
+#%408637
+#%600827
+#%688896
+#%2135000
+
+#*The VLSI Complexity of Selected Graph Problems
+#@Joseph Já Já
+#t1984
+#cJournal of the ACM (JACM)
+#index12
+#%768
+#%289451
+#%319820
+#%408342
+#%598671
+#%598674
+#%598672
+#%600546
+#%600559
+#%600810
+#%690080
+#%1068476
+#%2135000
+
+#*Computability with Pascal
+#@John S. Mallozzi, Nicholas J. De Lillo
+#t1984
+#cComputability with Pascal
+#index13
+
+#*Ambiguity and decision problems concerning number systems
+#@Karel Culik, II, Arto Salomaa
+#t1984
+#cInformation and Control
+#index14
+
+#*The implication problem for functional and inclusion dependencies
+#@John C. Mitchell
+#t1984
+#cInformation and Control
+#index15
+
+#*Cynamic parallel memories
+#@Uzi Vishkin, Avi Wigderson
+#t1984
+#cInformation and Control
+#index16
+
+#*Succinct representations of graphs
+#@Hana Galperin, Avi Wigderson
+#t1984
+#cInformation and Control
+#index17
+
+#*On storage media with after effects
+#@H. S. Witsenhausen, A. D. Wyner
+#t1984
+#cInformation and Control
+#index18
+
+#*A necessary and sufficient condition in order that a Herbrand interpretation be expressive relative to recursive programs
+#t1984
+#cInformation and Control
+#index19
+
+#*Enclosing methods in perturbed nonlinear operator equations
+#@J W. Schmidt, H Schneider
+#t1984
+#cComputing
+#index20
+
+#*On two more Eigenvalue methods for an alternating sequential parallel system
+#@Y Wallach
+#t1984
+#cComputing
+#index21
+
+#*Random variate generation for unimodal and monotone densities
+#@L Devroye
+#t1984
+#cComputing
+#index22
+
+#*An approximation method of the local type. Application to a problem of heart potential mapping
+#@M Bozzini, F De Tisi, L Lenarduzzi
+#t1984
+#cComputing
+#index23
+
+#*Computing surfaces of constant mean curvature with singularities
+#@D E Hewgill
+#t1984
+#cComputing
+#index24
+
+#*Software engineering with MODULA-2 and ADA
+#@Richard Wiener, Richard Sincovec
+#t1984
+#cSoftware engineering with MODULA-2 and ADA
+#index25
+
+#*Frame theory and computations
+#@Viacheslav E. Wolfengagen
+#t1984
+#cComputers and Artificial Intelligence
+#index26
+
+#*Natural language interface to the question-answering system for physicians
+#@Leonard Bolc, Tomek Strzalkowski
+#t1984
+#cComputers and Artificial Intelligence
+#index27
+
+#*Some issues in the semantics and pragmatics of definite reference in the context of natural language database access
+#@Genevieve Berry-Rogghe
+#t1984
+#cComputers and Artificial Intelligence
+#index28
+
+#*Stationary wave solutions of a system of reaction-diffusion equations derived from the Fitzhugh-Nagumo equations
+#@Gene A. Klaasen, William C. Troy
+#t1984
+#cSIAM Journal on Applied Mathematics
+#index29
+
+#*Up and running: the small business computer implementation cookbook
+#@Jess W. Curry, Jr., David M. Bonner
+#t1984
+#cUp and running: the small business computer implementation cookbook
+#index30
+
+#*Proc. IFIP working conference on Programming Languages and System Design
+#@J Bormann
+#t1983
+#cProc. IFIP working conference on Programming Languages and System Design
+#index31
+
+#*Fast automatic liveness analysis of hierarchical parallel systems
+#@Johannes Rohrich
+#t1983
+#cProc. IFIP working conference on Programming Languages and System Design
+#index32
+
+#*Concatenable type declarations: their applications and implementaion
+#@A Kreczmar, A Salwicki
+#t1983
+#cProc. IFIP working conference on Programming Languages and System Design
+#index33
+
+#*On the coherence of programming language and programming methodology
+#@Broy Manfred, Peter Pepper
+#t1983
+#cProc. IFIP working conference on Programming Languages and System Design
+#index34
+
+#*On the design of data abstraction mechanisms for compiler description languages1)
+#@Harald Ganzinger
+#t1983
+#cProc. IFIP working conference on Programming Languages and System Design
+#index35
+
+#*The remodularization of a compiler by abstract data types
+#@Klaus Bothe
+#t1983
+#cProc. IFIP working conference on Programming Languages and System Design
+#index36
+
+#*Experience with abstract data type specifications in a compiler project
+#@Ulrich L. Hupbach, Heinz Kaphengst
+#t1983
+#cProc. IFIP working conference on Programming Languages and System Design
+#index37
+
+#*XYZ: a program development environment based on temporal logic
+#@Chih-sung Tang
+#t1983
+#cProc. IFIP working conference on Programming Languages and System Design
+#index38
+
+#*Design and verification oriented microprogram transformations
+#@Piotr Dembinski
+#t1983
+#cProc. IFIP working conference on Programming Languages and System Design
+#index39
+
+#*ELSA - an extensible programming system
+#@C. H. Lindsey
+#t1983
+#cProc. IFIP working conference on Programming Languages and System Design
+#index40
+
+#*A skeleton interpreter for specialized languages
+#@J Steensgaard-Madsen
+#t1983
+#cProc. IFIP working conference on Programming Languages and System Design
+#index41
+
+#*Comparing PASCAL and MODULA-2 as systems programming languages
+#@Pieter H. Hartel
+#t1983
+#cProc. IFIP working conference on Programming Languages and System Design
+#index42
+
+#*ADA: Concurrent Programming
+#@Narain Gehani
+#t1984
+#cADA: Concurrent Programming
+#index43
+
+#*Computers, Data Processing, and The Law
+#@Steven L. Mandell
+#t1984
+#cComputers, Data Processing, and The Law
+#index44
+
+#*On the Multiple Implementation of Abstract Data Types Within a Computation
+#@J. R White
+#t1983
+#cIEEE Transactions on Software Engineering
+#index45
+#!A fundamental step in the software design process is the selection of a refinement (implementation) for a data abstraction. This step traditionally involves investigating the expected performance of a system under different refinements of an abstraction and then selecting a single alternative which minimizes some performance cost metric. In this paper we reformulate this design step to allow different refinements of the same data abstraction within a computation. This reformulation reflects the fact that the implementation appropriate for a data abstraction is dependent on the behavior exhibited by the objects of the abstraction. Since this behavior can vary among the objects of a computation, a single refinement is often inappropriate. Accordingly, three frameworks are presented for understanding and representing variations in the behavior of objects and, thus, the potential for multiple implementations. The three frameworks are based upon: 1) a static partitioning of objects into disjoint implementation classes; 2) static partitioning of classes into implementation regions; and 3) dynamic partitioning of classes into implementation regions. These frameworks and analytic tools useful in investigating expected performance under multiple implementations are described in detail.
+
+#*Matings in matrices
+#@Wolfgang Bibel
+#t1983
+#cCommunications of the ACM
+#index46
+#%25469
+#%289291
+#%289317
+#%384111
+#%456886
+#%456887
+#%556912
+#%569084
+#%2135000
+
+#*on Automata, languages and programming
+#@M. Nielsen
+#t1982
+#con Automata, languages and programming
+#index47
+
+#*Register Allocation in Optimizing Compilers
+#@Bruce W. Leverett
+#t1983
+#cRegister Allocation in Optimizing Compilers
+#index48
+
+#*Polymorphic programming languages: design and implementation
+#@David M. Harland
+#t1984
+#cPolymorphic programming languages: design and implementation
+#index49
+
+#*Analysis of speedup in distributed algorithms
+#@John P. Fishburn
+#t1984
+#cAnalysis of speedup in distributed algorithms
+#index50
+
+#*Automated microcode synthesis
+#@Robert A. Mueller
+#t1984
+#cAutomated microcode synthesis
+#index51
+
+#*A class of generalized stochastic Petri nets for the performance evaluation of multiprocessor systems
+#@Marco Ajmone Marsan, Gianni Conte, Gianfranco Balbo
+#t1984
+#cACM Transactions on Computer Systems (TOCS)
+#index52
+#%317870
+#%598102
+#%689726
+#%2135000
+
+#*Static grouping of small objects to enhance performance of a paged virtual memory
+#@James W. Stamos
+#t1984
+#cACM Transactions on Computer Systems (TOCS)
+#index53
+#%102
+#%288712
+#%317780
+#%320070
+#%320107
+#%321611
+#%322247
+#%348985
+#%602692
+#%602694
+#%602670
+#%602693
+#%606654
+#%607605
+#%669002
+#%669875
+#%2135000
+
+#*A supervised learning algorithm for hierarchical classification of fuzzy patterns
+#@Prasenjit Biswas, Arun K. Majumdar
+#t1983
+#cInformation Sciences: an International Journal
+#index54
+
+#*Quantifiers in the formulation of multiple objective decision functions
+#@Ronald R. Yager
+#t1983
+#cInformation Sciences: an International Journal
+#index55
+
+#*On the implication operator in fuzzy logic
+#@Ronald R. Yager
+#t1983
+#cInformation Sciences: an International Journal
+#index56
+
+#*The application of coding theory to the design of combinatorial filing schemes of any order
+#@Lois Wright Hawkes
+#t1983
+#cInformation Sciences: an International Journal
+#index57
+
+#*Algorithmic theories of data structures
+#@Andrzej Salwicki
+#t1982
+#con Automata, languages and programming
+#index58
+
+#*Micro-PROLOG: programming in logic
+#@K. L Clark, F. G McCabe
+#t1984
+#cMicro-PROLOG: programming in logic
+#index59
+
+#*The DISS methodology of distributed system simulation
+#@Myron Melman, Miron Livny
+#t1984
+#cSimulation
+#index60
+
+#*Information Technology Research Development Applications
+#@C J. van Rijsbergen
+#t1984
+#cInformation Technology Research Development Applications
+#index61
+
+#*Special-purpose hardware and effective information processing
+#@Maristella Agosti
+#t1984
+#cInformation Technology Research Development Applications
+#index62
+
+#*Relevance feedback and a fuzzy set of search terms in an information retrieval system
+#@A F. Smeaton
+#t1984
+#cInformation Technology Research Development Applications
+#index63
+
+#*Direct file organization for lemmatized text retrieval
+#@K Devine, F J. Smith
+#t1984
+#cInformation Technology Research Development Applications
+#index64
+
+#*Soft evaluation of Boolean search queries in information retrieval systems
+#@C D. Paice
+#t1984
+#cInformation Technology Research Development Applications
+#index65
+
+#*Augmented semantic networks for an enterprise knowledge base
+#@Paltin Sturdza
+#t1984
+#cInformation Technology Research Development Applications
+#index66
+
+#*Technology and Science of Informatics
+#@Bertrand Meyer
+#t1984
+#cTechnology and Science of Informatics
+#index67
+
+#*A comparative study of some distributed systems
+#@Marc Guillemont
+#t1984
+#cTechnology and Science of Informatics
+#index68
+
+#*Controlled execution of timed petri nets
+#@Philippe Chretienne
+#t1984
+#cTechnology and Science of Informatics
+#index69
+
+#*A two-level control structure for parallel heuristic programming
+#@Andre Schiper, Giovanni Coray, Beat Hirsbrunner
+#t1984
+#cTechnology and Science of Informatics
+#index70
+
+#*SCEPTRE: proposed standard for a real-time executive kernel
+#@F Browaeys, H Derriennic, P Desclaud, H Fallour, C Faulle, J Febvre, J E. Hanne, M Kronental, J J. Simon, D Vojnovic
+#t1984
+#cTechnology and Science of Informatics
+#index71
+
+#*The application of human factors to the needs of the novice computer user
+#@Anne Lee Paxton, Edward J. Turner
+#t1984
+#cInternational Journal of Man-Machine Studies
+#index72
+
+#*Type-checking in an untyped language
+#@Allan Ramsay
+#t1984
+#cInternational Journal of Man-Machine Studies
+#index73
+
+#*A methodology for interactive evaluation of user reactions to software packagesn empirical analysis of system performance, interaction, and run time
+#@Avi Rushinek, Sara F. Rushinek, Joel Stutz
+#t1984
+#cInternational Journal of Man-Machine Studies
+#index74
+
+#*The depth/breadth trade-off in the design of menu-driven user interfaces
+#@John I. Kiger
+#t1984
+#cInternational Journal of Man-Machine Studies
+#index75
+
+#*The influence of rule-generated stress on computer-synthesized speech
+#@David L. McPeters, Alan L. Tharp
+#t1984
+#cInternational Journal of Man-Machine Studies
+#index76
+
+#*Formal specification of interactive graphics programming languages
+#@William R. Mallgren
+#t1983
+#cFormal specification of interactive graphics programming languages
+#index77
+
+#*VAX/VMS internals and data structures
+#@Lawrence J. Kenah, Simon F. Bate
+#t1984
+#cVAX/VMS internals and data structures
+#index78
+
+#*Smalltalk-80: bits of history, words of advice
+#@Glenn Krasner
+#t1983
+#cSmalltalk-80: bits of history, words of advice
+#index79
+
+#*Overcoming computer illiteracy: a friendly introduction to computers
+#@Susan Curran, Ray Curnow
+#t1984
+#cOvercoming computer illiteracy: a friendly introduction to computers
+#index80
+
+#*Electronic analog-to-digital converters: principles, circuits, devices, testing
+#@Dieter Seitzer, Gunter Pretzl, Nadder A. Hamdy
+#t1983
+#cElectronic analog-to-digital converters: principles, circuits, devices, testing
+#index81
+
+#*A practical guide to designing expert systems
+#@Sholom M. Weiss, Casimir A. Kulikowski
+#t1984
+#cA practical guide to designing expert systems
+#index82
+
+#*Parallel programming in ansi standard ADA
+#@George W. Cherry
+#t1984
+#cParallel programming in ansi standard ADA
+#index83
+
+#*Introduction to computer science using the TURING programming language
+#@R C. Holt, J N.P Hume
+#t1984
+#cIntroduction to computer science using the TURING programming language
+#index84
+
+#*Best approximate circles on integer grids
+#@M. D. McIlroy
+#t1983
+#cACM Transactions on Graphics (TOG)
+#index85
+#%317818
+#%320075
+#%2135000
+
+#*A multiresolution spline with application to image mosaics
+#@Peter J. Burt, Edward H. Adelson
+#t1983
+#cACM Transactions on Graphics (TOG)
+#index86
+#%2135000
+
+#*Efficient polygon-filling algorithms for raster displays
+#@Michael R. Dunlavey
+#t1983
+#cACM Transactions on Graphics (TOG)
+#index87
+#%3103
+#%4092
+#%602877
+#%603544
+#%2135000
+
+#*Physical structures and application on Database design techniques II
+#@S B. Yao, T L. Kunii
+#t1982
+#cPhysical structures and application on Database design techniques II
+#index88
+
+#*Physical database design techniques
+#@Mario Schkolnick
+#t1982
+#cPhysical structures and application on Database design techniques II
+#index89
+
+#*Design of optimal balanced filing schemes
+#@Sumiyasu Yamamoto
+#t1982
+#cPhysical structures and application on Database design techniques II
+#index90
+
+#*Parallel join and sorting algorithms
+#@Mamoru Maekawa
+#t1982
+#cPhysical structures and application on Database design techniques II
+#index91
+
+#*A language for office and business automation
+#@Moshe M. Zloof
+#t1982
+#cPhysical structures and application on Database design techniques II
+#index92
+
+#*APAD: an application-adaptable database system - its architecture and design -
+#@Hiroyuki Kitagawa, Tosiyasu L. Kunii
+#t1982
+#cPhysical structures and application on Database design techniques II
+#index93
+
+#*Specific requirements in engineering data base
+#@Hideo Matsuka, Sakae Uno, Masaaki Sibuya
+#t1982
+#cPhysical structures and application on Database design techniques II
+#index94
+
+#*Pattern databases
+#@Larry S. Davis, T L. Kunii
+#t1982
+#cPhysical structures and application on Database design techniques II
+#index95
+
+#*Memories that shaped an industry
+#@Emerson W. Pugh
+#t1984
+#cMemories that shaped an industry
+#index96
+
+#*Effective methods of EDP quality assurance
+#@William E. Perry
+#t1983
+#cEffective methods of EDP quality assurance
+#index97
+
+#*The data center disaster consultant
+#@Kenniston W. Lord, Jr.
+#t1983
+#cThe data center disaster consultant
+#index98
+
+#*A structured approach to systems testing
+#@William E. Perry
+#t1983
+#cA structured approach to systems testing
+#index99
+
+#*Creating and planning the corporate data base system project
+#@Leo J. Cohen
+#t1983
+#cCreating and planning the corporate data base system project
+#index100
+
+#*Managing systems maintenance
+#@William E. Perry
+#t1983
+#cManaging systems maintenance
+#index101
+
+#*Smalltalk-80: the language and its implementation
+#@Adele Goldberg, David Robson
+#t1983
+#cSmalltalk-80: the language and its implementation
+#index102
+#!From the Preface (See Front Matter for full Preface) Advances in the design and production of computer hardware have brought many more people into direct contact with computers. Similar advances in the design and production of computer software are required in order that this increased contact be as rewarding as possible. The Smalltalk-80 system is a result of a decade of research into creating computer software that is appropriate for producing highly functional and interactive contact with personal computer systems. This book is the first detailed account of the Smalltalk-80 system. It is divided into four major parts: Part One -- an overview of the concepts and syntax of the programming language. Part Two -- an annotated and illustrated specification of the system's functionality. Part Three -- an example of the design and implementation of a moderate-size application. Part Four -- a specification of the Smalltalk-80 virtual machine.
